@@ -1,0 +1,25 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "my webpack config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avmaktslave/config.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "avmaktslave",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/avmaktslave/config/issues"
+  },
+  "homepage": "https://github.com/avmaktslave/config#readme",
+  "devDependencies": {
+    "webpack": "^4.5.0"
+  }
+}
